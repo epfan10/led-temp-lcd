@@ -10,3 +10,5 @@ Each led needs a 220 ohm resistor between the GND pin and the led, otherwise it 
 - 3 leds (blue, green and red)
 - 3 220 ohm resistors
 
+
+![dht22_arduinoNano-300x202](https://github.com/user-attachments/assets/47e30cb8-d988-4ac0-b7b7-9b803cba77f8)
